@@ -1,0 +1,15 @@
+C:\Users\Warley Ramires\Downloads\2023_2\DesenvolvimentoDotNet\002_Aula\exercicio_002\obj\Debug\net6.0\exercicio_002.csproj.AssemblyReference.cache
+C:\Users\Warley Ramires\Downloads\2023_2\DesenvolvimentoDotNet\002_Aula\exercicio_002\obj\Debug\net6.0\exercicio_002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Warley Ramires\Downloads\2023_2\DesenvolvimentoDotNet\002_Aula\exercicio_002\obj\Debug\net6.0\exercicio_002.AssemblyInfoInputs.cache
+C:\Users\Warley Ramires\Downloads\2023_2\DesenvolvimentoDotNet\002_Aula\exercicio_002\obj\Debug\net6.0\exercicio_002.AssemblyInfo.cs
+C:\Users\Warley Ramires\Downloads\2023_2\DesenvolvimentoDotNet\002_Aula\exercicio_002\obj\Debug\net6.0\exercicio_002.csproj.CoreCompileInputs.cache
+C:\Users\Warley Ramires\Downloads\2023_2\DesenvolvimentoDotNet\002_Aula\exercicio_002\bin\Debug\net6.0\exercicio_002.exe
+C:\Users\Warley Ramires\Downloads\2023_2\DesenvolvimentoDotNet\002_Aula\exercicio_002\bin\Debug\net6.0\exercicio_002.deps.json
+C:\Users\Warley Ramires\Downloads\2023_2\DesenvolvimentoDotNet\002_Aula\exercicio_002\bin\Debug\net6.0\exercicio_002.runtimeconfig.json
+C:\Users\Warley Ramires\Downloads\2023_2\DesenvolvimentoDotNet\002_Aula\exercicio_002\bin\Debug\net6.0\exercicio_002.dll
+C:\Users\Warley Ramires\Downloads\2023_2\DesenvolvimentoDotNet\002_Aula\exercicio_002\bin\Debug\net6.0\exercicio_002.pdb
+C:\Users\Warley Ramires\Downloads\2023_2\DesenvolvimentoDotNet\002_Aula\exercicio_002\obj\Debug\net6.0\exercicio_002.dll
+C:\Users\Warley Ramires\Downloads\2023_2\DesenvolvimentoDotNet\002_Aula\exercicio_002\obj\Debug\net6.0\refint\exercicio_002.dll
+C:\Users\Warley Ramires\Downloads\2023_2\DesenvolvimentoDotNet\002_Aula\exercicio_002\obj\Debug\net6.0\exercicio_002.pdb
+C:\Users\Warley Ramires\Downloads\2023_2\DesenvolvimentoDotNet\002_Aula\exercicio_002\obj\Debug\net6.0\exercicio_002.genruntimeconfig.cache
+C:\Users\Warley Ramires\Downloads\2023_2\DesenvolvimentoDotNet\002_Aula\exercicio_002\obj\Debug\net6.0\ref\exercicio_002.dll

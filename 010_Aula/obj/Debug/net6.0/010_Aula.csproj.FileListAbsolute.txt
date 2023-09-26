@@ -1,0 +1,15 @@
+C:\Users\Warley Ramires\Downloads\2023_2\DesenvolvimentoDotNet\010_Aula\bin\Debug\net6.0\010_Aula.exe
+C:\Users\Warley Ramires\Downloads\2023_2\DesenvolvimentoDotNet\010_Aula\bin\Debug\net6.0\010_Aula.deps.json
+C:\Users\Warley Ramires\Downloads\2023_2\DesenvolvimentoDotNet\010_Aula\bin\Debug\net6.0\010_Aula.runtimeconfig.json
+C:\Users\Warley Ramires\Downloads\2023_2\DesenvolvimentoDotNet\010_Aula\bin\Debug\net6.0\010_Aula.dll
+C:\Users\Warley Ramires\Downloads\2023_2\DesenvolvimentoDotNet\010_Aula\bin\Debug\net6.0\010_Aula.pdb
+C:\Users\Warley Ramires\Downloads\2023_2\DesenvolvimentoDotNet\010_Aula\obj\Debug\net6.0\010_Aula.csproj.AssemblyReference.cache
+C:\Users\Warley Ramires\Downloads\2023_2\DesenvolvimentoDotNet\010_Aula\obj\Debug\net6.0\010_Aula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Warley Ramires\Downloads\2023_2\DesenvolvimentoDotNet\010_Aula\obj\Debug\net6.0\010_Aula.AssemblyInfoInputs.cache
+C:\Users\Warley Ramires\Downloads\2023_2\DesenvolvimentoDotNet\010_Aula\obj\Debug\net6.0\010_Aula.AssemblyInfo.cs
+C:\Users\Warley Ramires\Downloads\2023_2\DesenvolvimentoDotNet\010_Aula\obj\Debug\net6.0\010_Aula.csproj.CoreCompileInputs.cache
+C:\Users\Warley Ramires\Downloads\2023_2\DesenvolvimentoDotNet\010_Aula\obj\Debug\net6.0\010_Aula.dll
+C:\Users\Warley Ramires\Downloads\2023_2\DesenvolvimentoDotNet\010_Aula\obj\Debug\net6.0\refint\010_Aula.dll
+C:\Users\Warley Ramires\Downloads\2023_2\DesenvolvimentoDotNet\010_Aula\obj\Debug\net6.0\010_Aula.pdb
+C:\Users\Warley Ramires\Downloads\2023_2\DesenvolvimentoDotNet\010_Aula\obj\Debug\net6.0\010_Aula.genruntimeconfig.cache
+C:\Users\Warley Ramires\Downloads\2023_2\DesenvolvimentoDotNet\010_Aula\obj\Debug\net6.0\ref\010_Aula.dll

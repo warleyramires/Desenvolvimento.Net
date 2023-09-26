@@ -1,0 +1,36 @@
+﻿<h1>Tarefas</h1>
+
+@page "/tarefas"
+
+<p>Comece a montar sua lista de tarefas</p>
+
+<ul>
+    <input placeholder="Digite a tarefa" @bind="novaTarefa"/>
+    <button @onclick="AdicionarTarefa">Adicionar</button>
+</ul>
+    <p style="color: red">@info</p>
+<ul>
+    @foreach(var t in tarefas){
+        <li>@t.Titulo</li>
+    }
+</ul>
+
+@code {
+    private List<Item> tarefas = new();
+    
+    private string? novaTarefa;
+    private string? info = "";
+
+    private void AdicionarTarefa(){
+        if(!string.IsNullOrWhiteSpace(novaTarefa)){
+            tarefas.Add(new Item{Titulo = novaTarefa});
+            novaTarefa = string.Empty;
+            info = "";
+        }else{
+            
+            info = "Não é possivel inserir uma tarefa vazia";
+        }
+    }
+
+}
+
