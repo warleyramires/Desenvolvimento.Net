@@ -1,0 +1,7 @@
+C:\Users\Warley Ramires\Downloads\2023_2\DesenvolvimentoDotNet\012_aula\Exercicio_01\bin\Publish\Exercicio_01.exe
+C:\Users\Warley Ramires\Downloads\2023_2\DesenvolvimentoDotNet\012_aula\Exercicio_01\bin\Publish\appsettings.Development.json
+C:\Users\Warley Ramires\Downloads\2023_2\DesenvolvimentoDotNet\012_aula\Exercicio_01\bin\Publish\appsettings.json
+C:\Users\Warley Ramires\Downloads\2023_2\DesenvolvimentoDotNet\012_aula\Exercicio_01\bin\Publish\Exercicio_01.dll
+C:\Users\Warley Ramires\Downloads\2023_2\DesenvolvimentoDotNet\012_aula\Exercicio_01\bin\Publish\Exercicio_01.deps.json
+C:\Users\Warley Ramires\Downloads\2023_2\DesenvolvimentoDotNet\012_aula\Exercicio_01\bin\Publish\Exercicio_01.runtimeconfig.json
+C:\Users\Warley Ramires\Downloads\2023_2\DesenvolvimentoDotNet\012_aula\Exercicio_01\bin\Publish\Exercicio_01.pdb
