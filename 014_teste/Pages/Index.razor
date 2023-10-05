@@ -1,0 +1,66 @@
+﻿@using  _014_teste;
+
+@page "/"
+@inject ProdutoServices produtoServices
+<h1 style="color: purple;">Info Tech Store</h1>
+<button @onclick="SimulateError">Simular Erro</button>
+
+<div>
+    <br>
+    <h1 style="color: green;">Tabela de produtos</h1>
+    <br>
+</div>
+
+<div class="container">
+    <table class="table table-bordered">
+        <thead class="thead-dark">
+            <tr>
+                <th>Id</th>
+                <th>Nome</th>
+                <th>Preço</th>
+                <th>Quantidade</th>
+                <th>Descrição</th>
+            </tr>
+        </thead>
+        <tbody> @if (Produtos.Any())
+            {
+                @foreach (var prod in Produtos)
+                {
+                    <tr>
+                        <td>@prod.Id</td>
+                        <td>@prod.Nome</td>
+                        <td>@prod.Preco</td>
+                        <td>@prod.Quant</td>
+                        <td>@prod.Descr</td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="6"><strong>Nenhum
+                            produto disponível</strong></td>
+                </tr>
+            }
+        </tbody>
+
+    </table>
+</div>
+
+
+@code {
+    private void SimulateError()
+    {
+        throw new Exception("Isso é um erro");
+    }
+    
+    List<Produto> Produtos = new List<Produto>();
+    
+   protected override async Task OnInitializedAsync(){
+        await AtualizaProdutos();
+   }
+
+    private async Task AtualizaProdutos(){
+    Produtos = await produtoServices.RetornaProdutoAsync();
+    }
+}
