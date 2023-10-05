@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Warley Ramires\\Downloads\\2023_2\\DesenvolvimentoDotNet\\teste\\teste.csproj": {}
+    "C:\\Users\\Warley Ramires\\Downloads\\2023_2\\DesenvolvimentoDotNet\\teste\\teste.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Warley Ramires\\Downloads\\2023_2\\DesenvolvimentoDotNet\\teste\\teste.csproj": {
+    "C:\\Users\\Warley Ramires\\Downloads\\2023_2\\DesenvolvimentoDotNet\\teste\\teste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Warley Ramires\\Downloads\\2023_2\\DesenvolvimentoDotNet\\teste\\teste.csproj",
+        "projectUniqueName": "C:\\Users\\Warley Ramires\\Downloads\\2023_2\\DesenvolvimentoDotNet\\teste\\teste.csproj",
         "projectName": "teste",
-        "projectPath": "c:\\Users\\Warley Ramires\\Downloads\\2023_2\\DesenvolvimentoDotNet\\teste\\teste.csproj",
+        "projectPath": "C:\\Users\\Warley Ramires\\Downloads\\2023_2\\DesenvolvimentoDotNet\\teste\\teste.csproj",
         "packagesPath": "C:\\Users\\Warley Ramires\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Warley Ramires\\Downloads\\2023_2\\DesenvolvimentoDotNet\\teste\\obj\\",
+        "outputPath": "C:\\Users\\Warley Ramires\\Downloads\\2023_2\\DesenvolvimentoDotNet\\teste\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Warley Ramires\\AppData\\Roaming\\NuGet\\NuGet.Config"

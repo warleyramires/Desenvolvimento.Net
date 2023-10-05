@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Warley Ramires\\Downloads\\2023_2\\DesenvolvimentoDotNet\\004_aula\\exercicio_01\\exercicio_01.csproj": {}
+    "C:\\Users\\Warley Ramires\\Downloads\\2023_2\\DesenvolvimentoDotNet\\004_aula\\exercicio_01\\exercicio_01.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Warley Ramires\\Downloads\\2023_2\\DesenvolvimentoDotNet\\004_aula\\exercicio_01\\exercicio_01.csproj": {
+    "C:\\Users\\Warley Ramires\\Downloads\\2023_2\\DesenvolvimentoDotNet\\004_aula\\exercicio_01\\exercicio_01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Warley Ramires\\Downloads\\2023_2\\DesenvolvimentoDotNet\\004_aula\\exercicio_01\\exercicio_01.csproj",
+        "projectUniqueName": "C:\\Users\\Warley Ramires\\Downloads\\2023_2\\DesenvolvimentoDotNet\\004_aula\\exercicio_01\\exercicio_01.csproj",
         "projectName": "exercicio_01",
-        "projectPath": "c:\\Users\\Warley Ramires\\Downloads\\2023_2\\DesenvolvimentoDotNet\\004_aula\\exercicio_01\\exercicio_01.csproj",
+        "projectPath": "C:\\Users\\Warley Ramires\\Downloads\\2023_2\\DesenvolvimentoDotNet\\004_aula\\exercicio_01\\exercicio_01.csproj",
         "packagesPath": "C:\\Users\\Warley Ramires\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Warley Ramires\\Downloads\\2023_2\\DesenvolvimentoDotNet\\004_aula\\exercicio_01\\obj\\",
+        "outputPath": "C:\\Users\\Warley Ramires\\Downloads\\2023_2\\DesenvolvimentoDotNet\\004_aula\\exercicio_01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Warley Ramires\\AppData\\Roaming\\NuGet\\NuGet.Config"

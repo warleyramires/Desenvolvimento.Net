@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Warley Ramires\\Downloads\\2023_2\\DesenvolvimentoDotNet\\TesteCalculadora\\TesteCalculadora.csproj": {}
+    "C:\\Users\\Warley Ramires\\Downloads\\2023_2\\DesenvolvimentoDotNet\\TesteCalculadora\\TesteCalculadora.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Warley Ramires\\Downloads\\2023_2\\DesenvolvimentoDotNet\\TesteCalculadora\\TesteCalculadora.csproj": {
+    "C:\\Users\\Warley Ramires\\Downloads\\2023_2\\DesenvolvimentoDotNet\\TesteCalculadora\\TesteCalculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Warley Ramires\\Downloads\\2023_2\\DesenvolvimentoDotNet\\TesteCalculadora\\TesteCalculadora.csproj",
+        "projectUniqueName": "C:\\Users\\Warley Ramires\\Downloads\\2023_2\\DesenvolvimentoDotNet\\TesteCalculadora\\TesteCalculadora.csproj",
         "projectName": "TesteCalculadora",
-        "projectPath": "c:\\Users\\Warley Ramires\\Downloads\\2023_2\\DesenvolvimentoDotNet\\TesteCalculadora\\TesteCalculadora.csproj",
+        "projectPath": "C:\\Users\\Warley Ramires\\Downloads\\2023_2\\DesenvolvimentoDotNet\\TesteCalculadora\\TesteCalculadora.csproj",
         "packagesPath": "C:\\Users\\Warley Ramires\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Warley Ramires\\Downloads\\2023_2\\DesenvolvimentoDotNet\\TesteCalculadora\\obj\\",
+        "outputPath": "C:\\Users\\Warley Ramires\\Downloads\\2023_2\\DesenvolvimentoDotNet\\TesteCalculadora\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Warley Ramires\\AppData\\Roaming\\NuGet\\NuGet.Config"

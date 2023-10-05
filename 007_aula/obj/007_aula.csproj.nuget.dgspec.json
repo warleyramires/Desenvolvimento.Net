@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Warley Ramires\\Downloads\\2023_2\\DesenvolvimentoDotNet\\007_aula\\007_aula.csproj": {}
+    "C:\\Users\\Warley Ramires\\Downloads\\2023_2\\DesenvolvimentoDotNet\\007_aula\\007_aula.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Warley Ramires\\Downloads\\2023_2\\DesenvolvimentoDotNet\\007_aula\\007_aula.csproj": {
+    "C:\\Users\\Warley Ramires\\Downloads\\2023_2\\DesenvolvimentoDotNet\\007_aula\\007_aula.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Warley Ramires\\Downloads\\2023_2\\DesenvolvimentoDotNet\\007_aula\\007_aula.csproj",
+        "projectUniqueName": "C:\\Users\\Warley Ramires\\Downloads\\2023_2\\DesenvolvimentoDotNet\\007_aula\\007_aula.csproj",
         "projectName": "007_aula",
-        "projectPath": "c:\\Users\\Warley Ramires\\Downloads\\2023_2\\DesenvolvimentoDotNet\\007_aula\\007_aula.csproj",
+        "projectPath": "C:\\Users\\Warley Ramires\\Downloads\\2023_2\\DesenvolvimentoDotNet\\007_aula\\007_aula.csproj",
         "packagesPath": "C:\\Users\\Warley Ramires\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Warley Ramires\\Downloads\\2023_2\\DesenvolvimentoDotNet\\007_aula\\obj\\",
+        "outputPath": "C:\\Users\\Warley Ramires\\Downloads\\2023_2\\DesenvolvimentoDotNet\\007_aula\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Warley Ramires\\AppData\\Roaming\\NuGet\\NuGet.Config"
