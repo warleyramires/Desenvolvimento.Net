@@ -10,8 +10,8 @@ using _014_teste.Data;
 namespace _014_teste.Migrations
 {
     [DbContext(typeof(ProdutoDbContext))]
-    [Migration("20231005205413_migrations inicial")]
-    partial class migrationsinicial
+    [Migration("20231023111319_migration inicial")]
+    partial class migrationinicial
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

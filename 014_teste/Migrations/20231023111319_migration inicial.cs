@@ -7,7 +7,7 @@
 namespace _014_teste.Migrations
 {
     /// <inheritdoc />
-    public partial class migrationsinicial : Migration
+    public partial class migrationinicial : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

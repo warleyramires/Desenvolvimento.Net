@@ -1,6 +1,8 @@
-﻿@using  _014_teste;
+﻿@using _014_teste;
+
 
 @page "/"
+@inject IJSRuntime JsRuntime
 @inject ProdutoServices produtoServices
 <h1 style="color: purple;">Info Tech Store</h1>
 <button @onclick="SimulateError">Simular Erro</button>
@@ -32,6 +34,11 @@
                         <td>@prod.Preco</td>
                         <td>@prod.Quant</td>
                         <td>@prod.Descr</td>
+                        <td>
+                            <button class="btn btn-danger" @onclick="(()=>ApagarProduto(prod))">
+                                Deletar
+                            </button>
+                        </td>
                     </tr>
                 }
             }
@@ -49,18 +56,37 @@
 
 
 @code {
+
+    private bool deletado = false;
+    private string? produtodeletado;
+    List<Produto> Produtos = new List<Produto>();
+
     private void SimulateError()
     {
         throw new Exception("Isso é um erro");
     }
-    
-    List<Produto> Produtos = new List<Produto>();
-    
-   protected override async Task OnInitializedAsync(){
-        await AtualizaProdutos();
-   }
 
-    private async Task AtualizaProdutos(){
-    Produtos = await produtoServices.RetornaProdutoAsync();
+    protected override async Task OnInitializedAsync()
+    {
+        await AtualizaProdutos();
+    }
+
+    private async Task AtualizaProdutos()
+    {
+        deletado = false;
+        Produtos = await produtoServices.RetornaProdutoAsync();
+    }
+
+    private async Task ApagarProduto(Produto prod)
+    {
+
+        bool result = await JsRuntime.InvokeAsync<bool>("confirm", "Tem certeza que deseja excluir este item?");
+        if (result)
+        {
+            produtodeletado = prod.Nome;
+            await produtoServices.DeleteProductAsync(prod);
+            await AtualizaProdutos();
+            deletado = true;
+        }
     }
 }
